@@ -1,0 +1,10 @@
+.spotifyhalf {
+    background-color: black;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.button {
+    color: #ebebeb;
+  }
+  
